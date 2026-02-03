@@ -33,6 +33,7 @@ public class SpaceMissionSolution {
             System.out.println("\n");
         }
 
+
         // This method prints information about the astronaut and the mission
         public void printAstronautInfo() {
 

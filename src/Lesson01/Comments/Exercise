@@ -2,7 +2,7 @@ Exercise:
 
 Find the correct places for the comments. Copy and paste them into the source code.
 
-// This method prints information about the astronaut and the mission
+ // This method prints information about the astronaut and the mission
 // Print a line of "=" characters
 // Call a method that prints information about the astronaut
 // Print the astronaut's name

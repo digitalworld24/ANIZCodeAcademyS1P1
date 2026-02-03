@@ -12,6 +12,7 @@ public class SpaceMission {
     }
 
 
+
     public void printTitle() {
         System.out.println("================================");
         System.out.println("  Andreas Mogensen's Space Trip ");
